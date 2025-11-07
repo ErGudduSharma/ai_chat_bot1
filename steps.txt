@@ -1,0 +1,18 @@
+create a new folder 
+
+open vs code in it 
+
+open terminal ---> create a venv --> activate it 
+
+create a requirements.txt file ---> and install it via command 
+
+uv add -r requirements.txt 
+
+create a gogle api key 
+
+https://aistudio.google.com/app/api-keys
+
+Now create app.py file ---> 
+
+Streamlit aplication ---> 
+function(query) + LLM(gemini) ---> Response (Textual format) 
